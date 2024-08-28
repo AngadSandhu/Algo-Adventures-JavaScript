@@ -1,2 +1,2 @@
-# JS-DSA
-Data Structures And Algorithms in JavaScript
+# Algo Adventures - JavaScript
+Data Structures And Algorithms, and some interesting coding challenges solved and implemented in JavaScript
